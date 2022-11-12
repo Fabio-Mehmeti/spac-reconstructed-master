@@ -1,0 +1,24 @@
+{
+  "name": "heritage-viewer-toolkit",
+  "version": "1.0.0",
+  "description": "three.js ========",
+  "main": "app.js",
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "mime": "^2.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjclements/heritage-viewer-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjclements/heritage-viewer-toolkit/issues"
+  },
+  "homepage": "https://github.com/mjclements/heritage-viewer-toolkit#readme"
+}
